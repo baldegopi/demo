@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.conformiq.creator.structure.dsl="http://www.conformiq.com/emf/15/StructureDiagram" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_Rwpo8Ix8Eeu9B-eIveeFdw" type="Dsl" name="dm.sd" measurementUnit="Pixel">
+  <children xmi:type="notation:Node" xmi:id="_SUdgoIx8Eeu9B-eIveeFdw" type="2003">
+    <children xmi:type="notation:DecorationNode" xmi:id="_SUdgpox8Eeu9B-eIveeFdw" type="5037"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_SUdgp4x8Eeu9B-eIveeFdw" type="7003"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_SUdgoYx8Eeu9B-eIveeFdw"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_SUdgoox8Eeu9B-eIveeFdw" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_SUdgo4x8Eeu9B-eIveeFdw"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_SUdgpIx8Eeu9B-eIveeFdw"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Screen" href="dm.sl#qmlf397fde89c6f4c899936db5dcae555f4"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SUdgpYx8Eeu9B-eIveeFdw" x="177" y="43"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_Rwpo8Yx8Eeu9B-eIveeFdw"/>
+  <element xmi:type="com.conformiq.creator.structure.dsl:Model" href="dm.sl#/"/>
+</notation:Diagram>
